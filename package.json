@@ -1,0 +1,30 @@
+{
+  "name": "unict-opcua-electronjs-client",
+  "version": "1.0.0",
+  "description": "ElectronJS Client Application with OCPUA SDK",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "JS",
+    "OPCUA",
+    "tutorial",
+    "UNICT"
+  ],
+  "author": "Giuseppe Lucchese",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.10.2",
+    "bootstrap": "4.3.1",
+    "chart.js": "2.8.0",
+    "datatables": "^1.10.18",
+    "jquery": "^3.5.1",
+    "node-opcua": "^2.5.12"
+  }
+}
