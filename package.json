@@ -25,6 +25,6 @@
     "chart.js": "2.8.0",
     "datatables": "^1.10.18",
     "jquery": "^3.5.1",
-    "node-opcua": "^2.5.12"
+    "node-opcua": "^2.74.0"
   }
 }
